@@ -4,9 +4,9 @@ description: >-
   login/logout users, sync device tokens to your own backend, handle taps
   and foreground notifications with a few lines of code.
 version: 0.1.0
-homepage: https://github.com/YOUR_GITHUB/fcm_identity
-repository: https://github.com/YOUR_GITHUB/fcm_identity
-issue_tracker: https://github.com/YOUR_GITHUB/fcm_identity/issues
+homepage: https://github.com/ergulecdemet/fcm_identity
+repository: https://github.com/ergulecdemet/fcm_identity
+issue_tracker: https://github.com/ergulecdemet/fcm_identity/issues
 topics:
   - push-notifications
   - firebase
