@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+build/
+pubspec.lock
+.idea/
+.vscode/
+*.iml
+.DS_Store
+example/android/app/google-services.json
+example/ios/Runner/GoogleService-Info.plist
+example/lib/firebase_options.dart

@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    public_member_api_docs: true
+    prefer_final_locals: true
+    unawaited_futures: true
