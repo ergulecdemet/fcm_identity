@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Updated LICENSE copyright holder.
+
 ## 0.1.0
 
 * Initial release.
